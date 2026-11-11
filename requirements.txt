@@ -1,0 +1,17 @@
+opencv-python
+opencv-contrib-python
+torch
+torchvision
+mediapipe>=0.10.13
+protobuf>=3.20.3
+numpy
+pandas
+sounddevice
+openai-whisper
+flask
+flask-cors
+requests
+scipy
+psutil
+websocket-client
+python-dotenv

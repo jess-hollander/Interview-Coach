@@ -1,0 +1,24 @@
+# python stuff
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+.conda/
+.python-version
+
+# node
+node_modules/
+
+# data files (too big)
+kaggle/
+*.pkl
+
+# mac
+.DS_Store
+
+# misc
+*.log
+.ipynb_checkpoints/
+.vscode/
+.idea/
