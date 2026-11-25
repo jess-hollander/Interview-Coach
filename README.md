@@ -11,7 +11,7 @@
 ### 1. clone and setup environment
 
 ```bash
-git clone https://github.com/annahiggins1/interview-coach.git
+git clone https://github.com/jess-hollander/Interview-Coach.git
 cd interview-coach
 conda create -n interview_coach python=3.11 -y
 conda activate interview_coach
